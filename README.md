@@ -1,0 +1,1 @@
+As a chatbox, a client and server software written in the same code. When one person is typing and sending a message, that person is a client, while the other is a server, and vice versa. Encryption methods are also utilised to convey the message via the media in a secure manner.
